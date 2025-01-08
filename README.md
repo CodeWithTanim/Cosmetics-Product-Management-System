@@ -73,11 +73,12 @@ The Cosmetics and Beauty Product Online Store Project offers 2 user interfaces. 
   - Logout
 
 ### System Snapshots of some Features
-![MasterHead](https://github.com/MSRTanim/all-REDME/blob/main/CPMS/1.png)
-![MasterHead](https://github.com/MSRTanim/all-REDME/blob/main/CPMS/2.png)
-![MasterHead](https://github.com/MSRTanim/all-REDME/blob/main/CPMS/3.png)
-![MasterHead](https://github.com/MSRTanim/all-REDME/blob/main/CPMS/4.png)
-![MasterHead](https://github.com/MSRTanim/all-REDME/blob/main/CPMS/5.png)
+![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/1.png)
+![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/2.png)
+![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/3.png)
+![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/4.png)
+![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/5.png)
+
 
 ## How to Run ??
 - Requirements
