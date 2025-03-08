@@ -4,6 +4,7 @@
 
 ### Introduction
 Cosmetics & Beauty Product Online Store is the name of this initiative. A MySQL database stores the data used in this PHP/OOP project. The Cosmetics and Beauty Products Business can take advantage of this web-based solution. Users of this app are able to peruse the wares of the aforementioned company and make purchases directly from the app. Among its many benefits and functionalities is the ability to accept payments online through the PayPal API. Thanks to the AdminLTE Template and the Bootstrap Framework, it offers a nice user interface. Its features and functionalities are intended for easy use by users.
+
 ### About the Cosmetics and Beauty Product Online Store
 I developed this project using the following:
 
@@ -79,6 +80,12 @@ The Cosmetics and Beauty Product Online Store Project offers 2 user interfaces. 
 ![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/4.png)
 ![MasterHead](https://github.com/MSRTanim/Cosmetics-Product-Management-System/blob/main/Templates%20of%20CPMS/5.png)
 
+## Contributors
+
+<p align="left">
+  <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/Contributors/CodeWithTanim.jpg" alt="CodeWithTanim" width="500" height="500">
+  <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/Contributors/amit-hasan10.jpg" alt="amit-hasan10" width="500" height="500">
+</p>
 
 ## How to Run ??
 - Requirements
@@ -113,9 +120,5 @@ Password:
 <a href="https://fb.com/msrtanim.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="msrtanim1" height="30" width="40" /></a>
 <a href="https://instagram.com/msrtanim.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msrtanim1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodeWithTanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="msrtanim" height="30" width="40" /></a>
-<a href="https://twitter.com/msrtanim__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msrtanim_" height="30" width="40" /></a>
-<a href="https://codepen.io/msrtanim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="msrtanim" height="30" width="40" /></a>
-<a href="https://discord.gg/4Y4KUUADMC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4292" height="30" width="40" /></a>
 </p>
 
-[![MasterHead](https://github.com/MSRTanim/all-REDME/blob/main/coding-freak.gif)](http://www.msrtanim.xyz)
