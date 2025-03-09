@@ -82,14 +82,9 @@ The Cosmetics and Beauty Product Online Store Project offers 2 user interfaces. 
 
 ## Contributors
 
-<p align="left">
-  <a href="https://github.com/CodeWithTanim" target="_blank">
-    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/Contributors/CodeWithTanim.jpg" alt="CodeWithTanim" width="350" height="350">
-  </a>
-  <a href="https://github.com/amit-hasan10" target="_blank">
-    <img src="https://github.com/CodeWithTanim/README-MANAGER/blob/main/Contributors/amit-hasan10.jpg" alt="amit-hasan10" width="350" height="350">
-  </a>
-</p>
+<a href="https://github.com/CodeWithTanim/Cosmetics-Product-Management-System/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodeWithTanim/Cosmetics-Product-Management-System" />
+</a>
 
 ## How to Run ??
 - Requirements
