@@ -18,6 +18,15 @@ XAMPP v8.2.12 as my local webserver that contains a PHP Version 8.2.12
       AdminLTE
 The Cosmetics and Beauty Product Online Store Project offers 2 user interfaces. Ones are for the management which is the Admin Panel of the system. This side of the system can be viewed by the management. The Admin is in charge of handling all the critical lists or data in the system such as the list of products and orders. The Admin can also manage the supplies of the products according to their variant. The other side is for the client-side. This side is open to anyone but some of the features are visible and operating for registered clients only. The possible clients can simply register their account in order to order their preferred products. The system may provide a printable date-wise sales report. The online payment option only supports utilizing PayPal API.
 
+---
+
+### 📄 Project Report
+📘 You can check out the complete **Project Report** here:  
+🔗 [CPMS_Project_Report.pdf](https://github.com/CodeWithTanim/Cosmetics-Product-Management-System/blob/main/CPMS_Project_Report.pdf)
+
+---
+
+
 ### Features
 - Admin-Side
   - Secure Login and Logout
